@@ -1,0 +1,4 @@
+/home/pter0/SFML/newProject/build/CMakeFiles/objects.dir
+/home/pter0/SFML/newProject/build/CMakeFiles/Pong.dir
+/home/pter0/SFML/newProject/build/CMakeFiles/edit_cache.dir
+/home/pter0/SFML/newProject/build/CMakeFiles/rebuild_cache.dir
